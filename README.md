@@ -12,4 +12,4 @@ The vedio demonstration of this project - https://youtu.be/gwthvJginpM
 Since i could not upload the robot workspace folders of robot development environment, I've uploaded the files to OneDrive and the link is : https://1drv.ms/f/s!AuQVeXxRjMAPiDftHAUixjUN71b8
 
 
-The Report on project https://docs.google.com/document/d/1cnSp1-gSpBn7lPvYS57pyszuhb0R5FMQRdbz74xbEvY/edit?usp=drivesdk
+The Report on project https://drive.google.com/file/d/1qtP02mGU_ljl0w1KxURCo4n_UvTKTY0B/view?usp=drivesdk
